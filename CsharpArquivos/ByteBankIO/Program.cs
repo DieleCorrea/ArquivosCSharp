@@ -1,10 +1,15 @@
 ﻿using ByteBankIO;
+using System.Security.Cryptography.X509Certificates;
+using System.Text;
 
-class Program
+partial class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args) 
     {
-
-        Console.ReadLine();
+        UsarStreamDeEntrada();
+        Console.WriteLine("Aplicação Finalizada...");
+        Console.ReadLine();   
     }
-}
+   
+
+} 

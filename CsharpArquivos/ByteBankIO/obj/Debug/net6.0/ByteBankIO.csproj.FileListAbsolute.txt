@@ -1,0 +1,15 @@
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\bin\Debug\net6.0\ByteBankIO.exe
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\bin\Debug\net6.0\ByteBankIO.deps.json
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\bin\Debug\net6.0\ByteBankIO.runtimeconfig.json
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\bin\Debug\net6.0\ByteBankIO.dll
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\bin\Debug\net6.0\ByteBankIO.pdb
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfoInputs.cache
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfo.cs
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.CoreCompileInputs.cache
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.sourcelink.json
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.dll
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\obj\Debug\net6.0\refint\ByteBankIO.dll
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.pdb
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.genruntimeconfig.cache
+C:\Users\Diele\Desktop\treino\CsharpArquivos\ByteBankIO\obj\Debug\net6.0\ref\ByteBankIO.dll
